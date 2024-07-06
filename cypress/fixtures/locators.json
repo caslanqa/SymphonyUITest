@@ -1,0 +1,11 @@
+{
+    "loginpage":{
+        "email":"#user-name",
+        "password":"#password",
+        "submitButton":"#login-button"
+    },
+    "listingPage":{
+        "sortContainer":".product_sort_container",
+        "itemTitle":".inventory_item_name"
+    }
+}

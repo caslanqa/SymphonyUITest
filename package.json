@@ -1,0 +1,14 @@
+{
+  "name": "symphonyuitest",
+  "version": "1.0.0",
+  "description": "Interview task for ui automation",
+  "main": "index.js",
+  "scripts": {
+    "saucedemo": "npx cypress run --spec 'cypress/e2e/saucedemo.cy.js' --headed"
+  },
+  "author": "Cihan Aslan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.0"
+  }
+}
