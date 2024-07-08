@@ -1,4 +1,4 @@
-# Symphony Solutions API Task
+# Symphony Solutions UI Task
 
 * Project developed by cypress
 * Including Docker file, github actions file
